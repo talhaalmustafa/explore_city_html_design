@@ -1,2 +1,19 @@
 # explore_city_html_design
-Explore City is a multi-page website design created as a university project. The site includes pages for Home, Destinations, Itineraries, Plan Your Trip, and Things to Do, providing users with an organized way to explore travel info. The project focuses on strong UI design, good SEO practices, and has undergone usability and performance testing.
+Explore City is a multi-page travel website created as a university project.
+
+## Pages
+- Home
+- Destinations
+- Itineraries
+- Plan Your Trip
+- Things to Do
+
+## Features
+- User-friendly interface
+- Good UI design
+- SEO optimization
+- Usability testing
+- Performance testing
+
+## Purpose
+This project was developed as part of a university assignment to demonstrate web design, usability, and website structure.
